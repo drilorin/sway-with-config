@@ -23,7 +23,7 @@ modules:
       packages:
       - micro
       - neovim
-      - virt-manager
+#      - virt-manager
     remove:
 #       packages:
 #         # example: removing firefox (in favor of the flatpak)
