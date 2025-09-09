@@ -21,8 +21,7 @@ modules:
     install:
       packages:
         - micro
-        - neovim
-#        - virt-manager
+        - virt-manager
 #    remove:
 #       packages:
 #         # example: removing firefox (in favor of the flatpak)
@@ -45,6 +44,7 @@ modules:
           - org.remmina.Remmina
           - com.jgraph.drawio.desktop
           - org.gnome.DejaDup
+          - io.neovim.nvim
 
       - scope: user # Also add Flathub user repo, but no user packages
 
