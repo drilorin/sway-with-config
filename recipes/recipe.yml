@@ -20,9 +20,9 @@ modules:
   - type: dnf
     install:
       packages:
-      - micro
-#      - neovim
-#      - virt-manager
+        - micro
+        - neovim
+        - virt-manager
 #    remove:
 #       packages:
 #         # example: removing firefox (in favor of the flatpak)
